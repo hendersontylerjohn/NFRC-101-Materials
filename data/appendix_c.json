@@ -1,0 +1,1338 @@
+{
+  "appendix": "C",
+  "materials": [
+    {
+      "conductivity_btu_hr_ft_f": 0.105,
+      "conductivity_btu_in_hr_ft2_f": 1.26,
+      "conductivity_wmk": 0.181,
+      "density_kgm3": 720.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "3M™",
+      "product": "VHB™ Structural / Glazing Tape B23F",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.111,
+      "conductivity_btu_in_hr_ft2_f": 1.33,
+      "conductivity_wmk": 0.192,
+      "density_kgm3": 720.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "3M™",
+      "product": "VHB™ Structural / Glazing Tape G23F",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.088,
+      "conductivity_btu_in_hr_ft2_f": 1.05,
+      "conductivity_wmk": 0.152,
+      "density_kgm3": 720.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "3M™",
+      "product": "VHB™ Architectural / Panel Tape G16F",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.968,
+      "conductivity_wmk": 0.14,
+      "density_kgm3": 710.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "3M™",
+      "product": "VHB™ Tape GPH-160",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 8.83,
+      "conductivity_btu_in_hr_ft2_f": 106.0,
+      "conductivity_wmk": 15.3,
+      "density_kgm3": 7110.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Allmetal",
+      "product": "3 mil Stainless Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 8.47,
+      "conductivity_btu_in_hr_ft2_f": 102.0,
+      "conductivity_wmk": 14.7,
+      "density_kgm3": 7380.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Allmetal",
+      "product": "4.5 mil Stainless Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 8.64,
+      "conductivity_btu_in_hr_ft2_f": 104.0,
+      "conductivity_wmk": 14.9,
+      "density_kgm3": 7570.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Allmetal",
+      "product": "6 mil Stainless Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 8.94,
+      "conductivity_btu_in_hr_ft2_f": 107.0,
+      "conductivity_wmk": 15.5,
+      "density_kgm3": 7690.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Allmetal",
+      "product": "8 mil Stainless Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.022,
+      "conductivity_btu_in_hr_ft2_f": 0.268,
+      "conductivity_wmk": 0.039,
+      "density_kgm3": 103.5,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "AmesburyTruth",
+      "product": "Foam-Tite",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.181,
+      "conductivity_btu_in_hr_ft2_f": 2.18,
+      "conductivity_wmk": 0.314,
+      "density_kgm3": 1700.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Andersen / Corporation",
+      "product": "CPI Fiberglass Material",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.117,
+      "conductivity_btu_in_hr_ft2_f": 1.4,
+      "conductivity_wmk": 0.202,
+      "density_kgm3": 21.8,
+      "emissivity": 0.9,
+      "expiration_date": "2029-12-31",
+      "participant": "Andersen / Corporation",
+      "product": "Fibrex EZ+",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.015,
+      "conductivity_btu_in_hr_ft2_f": 0.183,
+      "conductivity_wmk": 0.026,
+      "density_kgm3": 35.8,
+      "emissivity": 0.9,
+      "expiration_date": "2029-12-31",
+      "participant": "Andersen / Corporation",
+      "product": "Andersen Extruded / Polystyrene Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.015,
+      "conductivity_btu_in_hr_ft2_f": 0.183,
+      "conductivity_wmk": 0.026,
+      "density_kgm3": 30.4,
+      "emissivity": 0.9,
+      "expiration_date": "2027-12-31",
+      "participant": "Andersen / Corporation",
+      "product": "Andersen Extruded / Polystyrene Foam 2",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.132,
+      "conductivity_btu_in_hr_ft2_f": 1.588,
+      "conductivity_wmk": 0.229,
+      "density_kgm3": 1310.0,
+      "emissivity": 0.9,
+      "expiration_date": "2028-12-31",
+      "participant": "Andersen / Corporation",
+      "product": "Polycarbonate / Composite",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.11,
+      "conductivity_btu_in_hr_ft2_f": 1.32,
+      "conductivity_wmk": 0.19,
+      "density_kgm3": 1430.0,
+      "density_note": "kg/m3",
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K",
+        "emissivity_note": "-"
+      },
+      "participant": "Andersen / Corporation",
+      "product": "Fibrex IC Material",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.169,
+      "conductivity_btu_in_hr_ft2_f": 2.025,
+      "conductivity_wmk": 0.292,
+      "density_kgm3": 1060.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Andersen / Corporation",
+      "product": "Composite Subsill",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.302,
+      "conductivity_btu_in_hr_ft2_f": 3.63,
+      "conductivity_wmk": 0.523,
+      "density_kgm3": 1300.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Andersen / Corporation",
+      "product": "Silicone Backed / Graphite Composite / (@ 0.200\" thick)",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.062,
+      "conductivity_btu_in_hr_ft2_f": 0.744,
+      "conductivity_wmk": 0.107,
+      "density_kgm3": 588.0,
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Andersen / Corporation",
+      "product": "Agriculture Fiber Board",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.0187,
+      "conductivity_btu_in_hr_ft2_f": 0.224,
+      "conductivity_wmk": 0.0323,
+      "density_kgm3": 157.0,
+      "emissivity": null,
+      "expiration_date": "2028-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Azon",
+      "product": "Azo-Core 10",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.018,
+      "conductivity_btu_in_hr_ft2_f": 0.218,
+      "conductivity_wmk": 0.032,
+      "density_kgm3": 204.0,
+      "emissivity": 0.9,
+      "expiration_date": "2026-07-01",
+      "participant": "Azon",
+      "product": "Azo-Core 13",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.021,
+      "conductivity_btu_in_hr_ft2_f": 0.252,
+      "conductivity_wmk": 0.036,
+      "density_kgm3": 259.0,
+      "emissivity": 0.9,
+      "expiration_date": "2026-07-01",
+      "participant": "Azon",
+      "product": "Azo-Core 17",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.028,
+      "conductivity_btu_in_hr_ft2_f": 0.337,
+      "conductivity_wmk": 0.049,
+      "density_kgm3": 335.0,
+      "emissivity": null,
+      "expiration_date": "2028-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Azon",
+      "product": "Azo-Core 20",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.105,
+      "conductivity_btu_in_hr_ft2_f": 1.264,
+      "conductivity_wmk": 0.182,
+      "density_kgm3": 1139.0,
+      "emissivity": null,
+      "expiration_date": "2026-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "BASF",
+      "product": "Polyurethane Elastomer",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.127,
+      "conductivity_btu_in_hr_ft2_f": 1.518,
+      "conductivity_wmk": 0.219,
+      "density_kgm3": 1350.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "BASF",
+      "product": "Ultradur® B4040 G11 / Natural",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.146,
+      "conductivity_btu_in_hr_ft2_f": 1.754,
+      "conductivity_wmk": 0.253,
+      "density_kgm3": 1427.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "BASF",
+      "product": "Ultradur® B4040 G11 / Green",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.017,
+      "conductivity_btu_in_hr_ft2_f": 0.201,
+      "conductivity_wmk": 0.029,
+      "density_kgm3": 19.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "BASF",
+      "product": "KF/F 2000 Series",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.016,
+      "conductivity_btu_in_hr_ft2_f": 0.196,
+      "conductivity_wmk": 0.028,
+      "density_kgm3": 17.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "BASF",
+      "product": "F5000 (Plus Series)",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 8.197,
+      "conductivity_btu_in_hr_ft2_f": 98.37,
+      "conductivity_wmk": 14.187,
+      "density_kgm3": 7808.0,
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Cardinal / Industries",
+      "product": "Stainless Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 7.473,
+      "conductivity_btu_in_hr_ft2_f": 89.673,
+      "conductivity_wmk": 12.933,
+      "density_kgm3": 7688.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Colonial Metal",
+      "product": "SST",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 29.05,
+      "conductivity_btu_in_hr_ft2_f": 348.6,
+      "conductivity_wmk": 50.2,
+      "density_kgm3": 7660.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Colonial Metal",
+      "product": "Tin Plated Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.118,
+      "conductivity_btu_in_hr_ft2_f": 1.419,
+      "conductivity_wmk": 0.205,
+      "density_kgm3": 1120.0,
+      "emissivity": null,
+      "expiration_date": "2028-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Covestro",
+      "product": "Baydur PUL-4800",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.299,
+      "conductivity_btu_in_hr_ft2_f": 3.58,
+      "conductivity_wmk": 0.517,
+      "density_kgm3": 2110.0,
+      "emissivity": null,
+      "expiration_date": "2028-07-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Deceuninck N.A.",
+      "product": "Rovex",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 92.4,
+      "conductivity_btu_in_hr_ft2_f": 1109.0,
+      "conductivity_wmk": 160.0,
+      "density_kgm3": 2193.0,
+      "emissivity": 0.03,
+      "expiration_date": "2026-07-01",
+      "participant": "Ensinger",
+      "product": "Tecafoil LeF Low-E Foil",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.123,
+      "conductivity_btu_in_hr_ft2_f": 1.48,
+      "conductivity_wmk": 0.213,
+      "density_kgm3": 1030.0,
+      "density_note": "kg/m3",
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K",
+        "emissivity_note": "-"
+      },
+      "participant": "Ensinger",
+      "product": "Insulbar® LI + RE-LI",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.162,
+      "conductivity_btu_in_hr_ft2_f": 1.94,
+      "conductivity_wmk": 0.28,
+      "density_kgm3": 1280.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Ensinger",
+      "product": "Insulbar® REG + RE",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.218,
+      "conductivity_btu_in_hr_ft2_f": 2.62,
+      "conductivity_wmk": 0.378,
+      "density_kgm3": 1387.0,
+      "emissivity": null,
+      "expiration_date": "2028-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Ensinger",
+      "product": "Insulbar® REG + RE / GF40",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.142,
+      "conductivity_btu_in_hr_ft2_f": 1.7,
+      "conductivity_wmk": 0.245,
+      "density_kgm3": 1300.0,
+      "emissivity": 0.9,
+      "expiration_date": "2026-07-01",
+      "participant": "FreMarq / Innovations",
+      "product": "FortMax™ 2400 / Polycarbonate",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 7.877,
+      "conductivity_btu_in_hr_ft2_f": 94.52,
+      "conductivity_wmk": 13.63,
+      "density_kgm3": 7473.0,
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "GED",
+      "product": "Intercept Ultra Stainless / Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.11,
+      "conductivity_btu_in_hr_ft2_f": 1.33,
+      "conductivity_wmk": 0.191,
+      "density_kgm3": 1095.0,
+      "emissivity": 0.9,
+      "expiration_date": "2027-12-31",
+      "participant": "Glasslam",
+      "product": "WorldSpacer/EcoSpacer / PU Desiccant Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 8.025,
+      "conductivity_btu_in_hr_ft2_f": 96.296,
+      "conductivity_wmk": 13.87,
+      "density_kgm3": 7440.0,
+      "emissivity": 0.9,
+      "expiration_date": "2029-07-01",
+      "participant": "Guardian / Industries",
+      "product": "Corrugated SST",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.154,
+      "conductivity_btu_in_hr_ft2_f": 1.85,
+      "conductivity_wmk": 0.267,
+      "density_kgm3": 1267.0,
+      "emissivity": null,
+      "expiration_date": "2028-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "H.B. Fuller/ / Kömmerling",
+      "product": "Kodispace 4SG",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.097,
+      "conductivity_btu_in_hr_ft2_f": 1.17,
+      "conductivity_wmk": 0.168,
+      "density_kgm3": 1067.0,
+      "emissivity": null,
+      "expiration_date": "2028-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "H.B. Fuller/ / Kömmerling",
+      "product": "PIB-7-HSNB",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.096,
+      "conductivity_btu_in_hr_ft2_f": 1.16,
+      "conductivity_wmk": 0.167,
+      "density_kgm3": 1094.0,
+      "emissivity": null,
+      "expiration_date": "2028-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "H.B. Fuller/ / Kömmerling",
+      "product": "PIB-8 HSNB Gray",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.02,
+      "conductivity_btu_in_hr_ft2_f": 0.236,
+      "conductivity_wmk": 0.034,
+      "density_kgm3": 22.0,
+      "emissivity": null,
+      "expiration_date": "2028-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "ICP Construction",
+      "product": "Handifoam Open Cell / Polyurethane Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.15,
+      "conductivity_btu_in_hr_ft2_f": 1.81,
+      "conductivity_wmk": 0.26,
+      "density_kgm3": 1470.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Inline Fiberglass",
+      "product": "Fiberglass Pultrusion",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.019,
+      "conductivity_btu_in_hr_ft2_f": 0.229,
+      "conductivity_wmk": 0.033,
+      "density_kgm3": 18.6,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "JELD-WEN",
+      "product": "EPS Door Core Material",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.131,
+      "conductivity_btu_in_hr_ft2_f": 1.57,
+      "conductivity_wmk": 0.227,
+      "density_kgm3": 1307.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "JELD-WEN",
+      "product": "JELD-WEN Proprietary / Composite",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.027,
+      "conductivity_btu_in_hr_ft2_f": 0.319,
+      "conductivity_wmk": 0.046,
+      "density_kgm3": 130.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "JELD-WEN",
+      "product": "Phenolic Foam Core",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.045,
+      "conductivity_btu_in_hr_ft2_f": 0.536,
+      "conductivity_wmk": 0.077,
+      "density_kgm3": 4.81,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kalwall",
+      "product": "Insulation A",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.054,
+      "conductivity_btu_in_hr_ft2_f": 0.648,
+      "conductivity_wmk": 0.093,
+      "density_kgm3": 4.06,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kalwall",
+      "product": "Insulation B",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.027,
+      "conductivity_btu_in_hr_ft2_f": 0.327,
+      "conductivity_wmk": 0.047,
+      "density_kgm3": 12.82,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kalwall",
+      "product": "Insulation C",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.019,
+      "conductivity_btu_in_hr_ft2_f": 0.222,
+      "conductivity_wmk": 0.032,
+      "density_kgm3": 38.98,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kalwall",
+      "product": "Insulation D",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.023,
+      "conductivity_btu_in_hr_ft2_f": 0.277,
+      "conductivity_wmk": 0.04,
+      "density_kgm3": 8.0,
+      "density_note": "kg/m3",
+      "emissivity": 0.9,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K"
+      },
+      "participant": "Kalwall",
+      "product": "Insulation E",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.143,
+      "conductivity_btu_in_hr_ft2_f": 1.72,
+      "conductivity_wmk": 0.248,
+      "density_kgm3": 1223.0,
+      "emissivity": null,
+      "expiration_date": "2028-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kenex",
+      "product": "Thermoplastic Spacer / Sealant (TPPS)",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.046,
+      "conductivity_btu_in_hr_ft2_f": 0.549,
+      "conductivity_wmk": 0.079,
+      "density_kgm3": 6.94,
+      "emissivity": 0.9,
+      "expiration_date": "2029-12-31",
+      "participant": "Kingspan Light & / Air Fenestration",
+      "product": "Translucent Thermal / Insulation 15",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.057,
+      "conductivity_btu_in_hr_ft2_f": 0.68,
+      "conductivity_wmk": 0.098,
+      "density_kgm3": 4.31,
+      "emissivity": 0.9,
+      "expiration_date": "2029-12-31",
+      "participant": "Kingspan Light & / Air Fenestration",
+      "product": "Translucent Thermal / Insulation 24",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.111,
+      "conductivity_btu_in_hr_ft2_f": 1.33,
+      "conductivity_wmk": 0.192,
+      "density_kgm3": 1370.0,
+      "emissivity": 0.9,
+      "expiration_date": "2029-12-31",
+      "participant": "Kingspan Light & / Air Fenestration",
+      "product": "Ultimate Series FRP",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.041,
+      "conductivity_btu_in_hr_ft2_f": 0.487,
+      "conductivity_wmk": 0.07,
+      "density_kgm3": 9.58,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kingspan Light & / Air Fenestration",
+      "product": "10 Light Transmitting / Insulation",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.021,
+      "conductivity_btu_in_hr_ft2_f": 0.258,
+      "conductivity_wmk": 0.037,
+      "density_kgm3": 6.92,
+      "density_note": "/ (at 1.25”)",
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kingspan Light & / Air Fenestration",
+      "product": "IMG 125 Light / Transmitting Insulation",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.158,
+      "conductivity_btu_in_hr_ft2_f": 1.89,
+      "conductivity_wmk": 0.273,
+      "density_kgm3": 1353.0,
+      "emissivity": null,
+      "expiration_date": "2028-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Kömmerling USA",
+      "product": "Profine Threshold - / Plastic Composite",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 7.781,
+      "conductivity_btu_in_hr_ft2_f": 93.37,
+      "conductivity_wmk": 13.467,
+      "density_kgm3": 7720.0,
+      "emissivity": null,
+      "expiration_date": "2026-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Leading Edge",
+      "product": "EdgeStar Stainless",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 29.8,
+      "conductivity_btu_in_hr_ft2_f": 358.0,
+      "conductivity_wmk": 51.6,
+      "density_kgm3": 7147.0,
+      "emissivity": null,
+      "expiration_date": null,
+      "expiration_date_raw": "12/312026",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Leading Edge",
+      "product": "ThinStar Steel",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.433,
+      "conductivity_btu_in_hr_ft2_f": 5.19,
+      "conductivity_wmk": 0.749,
+      "density_kgm3": 3587.0,
+      "emissivity": null,
+      "expiration_date": "2028-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "LuxWall",
+      "product": "Seal Material 1",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.657,
+      "conductivity_btu_in_hr_ft2_f": 7.88,
+      "conductivity_wmk": 1.137,
+      "density_kgm3": 3400.0,
+      "emissivity": null,
+      "expiration_date": "2028-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "LuxWall",
+      "product": "Seal Material 2",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.152,
+      "conductivity_btu_in_hr_ft2_f": 1.83,
+      "conductivity_wmk": 0.264,
+      "density_kgm3": 1573.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Marvin",
+      "product": "ULTREX",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.201,
+      "conductivity_btu_in_hr_ft2_f": 2.415,
+      "conductivity_wmk": 0.348,
+      "density_kgm3": 1800.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Marvin",
+      "product": "HLP MGF 47%",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.287,
+      "conductivity_btu_in_hr_ft2_f": 3.45,
+      "conductivity_wmk": 0.497,
+      "density_kgm3": 2055.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Marvin",
+      "product": "HDF-FRP-PUR",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.158,
+      "conductivity_btu_in_hr_ft2_f": 1.89,
+      "conductivity_wmk": 0.273,
+      "density_kgm3": 1730.0,
+      "emissivity": 0.9,
+      "expiration_date": "2029-07-01",
+      "participant": "Marvin",
+      "product": "HLP GF 44%",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.121,
+      "conductivity_btu_in_hr_ft2_f": 1.68,
+      "conductivity_wmk": 0.21,
+      "density_kgm3": 1540.0,
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Marvin",
+      "product": "HLP GF 15%",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.14,
+      "conductivity_btu_in_hr_ft2_f": 1.45,
+      "conductivity_wmk": 0.242,
+      "density_kgm3": 1640.0,
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Marvin",
+      "product": "HLP GF 30%",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.048,
+      "conductivity_btu_in_hr_ft2_f": 0.57,
+      "conductivity_wmk": 0.082,
+      "density_kgm3": 999.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Nan Ya Plastics",
+      "product": "Neuma Door-Foam PVC",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.017,
+      "conductivity_btu_in_hr_ft2_f": 0.201,
+      "conductivity_wmk": 0.029,
+      "density_kgm3": 740.0,
+      "emissivity": null,
+      "expiration_date": "2026-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Nan Ya Plastics",
+      "product": "Neuma Door-Phenolic / Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.132,
+      "conductivity_btu_in_hr_ft2_f": 1.58,
+      "conductivity_wmk": 0.228,
+      "density_kgm3": 1784.0,
+      "density_note": "kg/m3",
+      "emissivity": 0.9,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K"
+      },
+      "participant": "Pella Windows / and Doors",
+      "product": "Duracast (Unpainted)",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.039,
+      "conductivity_btu_in_hr_ft2_f": 0.462,
+      "conductivity_wmk": 0.067,
+      "density_kgm3": 597.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Plastpro",
+      "product": "Cellular PVC by JM / Eagle",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.049,
+      "conductivity_btu_in_hr_ft2_f": 0.583,
+      "conductivity_wmk": 0.084,
+      "density_kgm3": 698.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Plastpro",
+      "product": "PF Frame by JM Eagle",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.206,
+      "conductivity_btu_in_hr_ft2_f": 2.47,
+      "conductivity_wmk": 0.356,
+      "density_kgm3": 1002.0,
+      "emissivity": 0.9,
+      "expiration_date": "2028-07-31",
+      "participant": "Ply Gem / Windows",
+      "product": "ecoCore Wood Plastic / Composite / Reinforcement",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.0094,
+      "conductivity_btu_in_hr_ft2_f": 0.113,
+      "conductivity_wmk": 0.016,
+      "density_kgm3": 34.1,
+      "emissivity": null,
+      "expiration_date": "2026-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "PUcore USA",
+      "product": "Polyurethane Foam – / RST-200 Series",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.017,
+      "conductivity_btu_in_hr_ft2_f": 0.207,
+      "conductivity_wmk": 0.03,
+      "density_kgm3": 21.5,
+      "emissivity": 0.9,
+      "expiration_date": "2027-07-01",
+      "participant": "PUcore USA",
+      "product": "Injected Polyurethane / Foam – RST-970 Series",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.021,
+      "conductivity_btu_in_hr_ft2_f": 0.252,
+      "conductivity_wmk": 0.036,
+      "density_kgm3": 34.4,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Reynaers / Aluminium NV",
+      "product": "Nomatec XPE Foam / Insulation",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.096,
+      "conductivity_btu_in_hr_ft2_f": 1.15,
+      "conductivity_wmk": 0.166,
+      "density_kgm3": 1229.0,
+      "density_note": "kg/m3",
+      "emissivity": null,
+      "expiration_date": "2028-07-01",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K",
+        "emissivity_note": "-"
+      },
+      "participant": "SWISSPACER, / Saint Gobain",
+      "product": "Advance/Ultimate",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.084,
+      "conductivity_btu_in_hr_ft2_f": 1.01,
+      "conductivity_wmk": 0.145,
+      "density_kgm3": 1141.0,
+      "emissivity": null,
+      "expiration_date": "2030-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "SWISSPACER, / Saint Gobain",
+      "product": "Ultimate Pro",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.018,
+      "conductivity_btu_in_hr_ft2_f": 0.218,
+      "conductivity_wmk": 0.031,
+      "density_kgm3": 32.7,
+      "emissivity": null,
+      "expiration_date": "2026-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Schuco USA",
+      "product": "Polypropylene Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.107,
+      "conductivity_btu_in_hr_ft2_f": 1.28,
+      "conductivity_wmk": 0.185,
+      "density_kgm3": 1027.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Schuco USA",
+      "product": "Polythermid",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.112,
+      "conductivity_btu_in_hr_ft2_f": 1.34,
+      "conductivity_wmk": 0.193,
+      "density_kgm3": 1050.0,
+      "emissivity": null,
+      "expiration_date": "2027-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Schuco USA",
+      "product": "Polyutherm",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.18,
+      "conductivity_btu_in_hr_ft2_f": 2.16,
+      "conductivity_wmk": 0.311,
+      "density_kgm3": 1124.0,
+      "emissivity": null,
+      "expiration_date": "2028-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Sun Windows",
+      "product": "Weyerhaeuser Moisture / Shield Composite Sill",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.115,
+      "conductivity_btu_in_hr_ft2_f": 1.38,
+      "conductivity_wmk": 0.198,
+      "density_kgm3": 1001.0,
+      "emissivity": 0.9,
+      "expiration_date": "2026-07-01",
+      "participant": "TECHNOFORM",
+      "product": "Low Lambda Thermal / Barrier",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 8.09,
+      "conductivity_btu_in_hr_ft2_f": 97.1,
+      "conductivity_wmk": 14.0,
+      "density_kgm3": 7710.0,
+      "emissivity": 0.2,
+      "expiration_date": "2029-07-01",
+      "participant": "TECHNOFORM",
+      "product": "Stainless Steel for / SP12, SP13, SP14, / SP17, SP20, SP25",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.164,
+      "conductivity_btu_in_hr_ft2_f": 1.97,
+      "conductivity_wmk": 0.284,
+      "density_kgm3": 1253.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "TECHNOFORM",
+      "product": "PA66 GF25",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.204,
+      "conductivity_btu_in_hr_ft2_f": 2.44,
+      "conductivity_wmk": 0.352,
+      "density_kgm3": 1450.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "TECHNOFORM",
+      "product": "PA66 GF40",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.066,
+      "conductivity_btu_in_hr_ft2_f": 0.786,
+      "conductivity_wmk": 0.113,
+      "density_kgm3": 616.0,
+      "emissivity": null,
+      "expiration_date": "2029-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Tremco",
+      "product": "EnerEDGE Silicone / Warm-Edge Spacer, / non-white",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.0838,
+      "conductivity_btu_in_hr_ft2_f": 1.01,
+      "conductivity_wmk": 0.145,
+      "density_kgm3": 726.0,
+      "emissivity": null,
+      "expiration_date": "2026-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Tremco",
+      "product": "EnerEDGE-E (EPDM) / Warm-Edge Spacer",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.113,
+      "conductivity_btu_in_hr_ft2_f": 1.36,
+      "conductivity_wmk": 0.196,
+      "density_kgm3": 1142.0,
+      "emissivity": null,
+      "expiration_date": "2026-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Viracon",
+      "product": "VTS Thermal Plastic / Spacer",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.0183,
+      "conductivity_btu_in_hr_ft2_f": 0.22,
+      "conductivity_wmk": 0.0317,
+      "density_kgm3": 50.0,
+      "emissivity": 0.035,
+      "expiration_date": null,
+      "expiration_date_raw": "12/312028",
+      "participant": "Vision Coatings",
+      "product": "Low-e Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.011,
+      "conductivity_btu_in_hr_ft2_f": 0.133,
+      "conductivity_wmk": 0.019,
+      "density_kgm3": 208.0,
+      "emissivity": 0.9,
+      "expiration_date": "2029-07-01",
+      "participant": "Warmframe / Technology",
+      "product": "Thermal Break Blanket",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.017,
+      "conductivity_btu_in_hr_ft2_f": 0.202,
+      "conductivity_wmk": 0.029,
+      "density_kgm3": 39.5,
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "WFI Global",
+      "product": "U Core Extrusion Fill / Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.017,
+      "conductivity_btu_in_hr_ft2_f": 0.203,
+      "conductivity_wmk": 0.029,
+      "density_kgm3": 40.5,
+      "emissivity": null,
+      "expiration_date": "2029-07-01",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "WFI Global",
+      "product": "U Core Plus Extrusion / Fill Foam",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.041,
+      "conductivity_btu_in_hr_ft2_f": 0.489,
+      "conductivity_wmk": 0.071,
+      "density_kgm3": 538.0,
+      "emissivity": null,
+      "expiration_date": "2026-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Zola Windows",
+      "product": "V1 Foam Insulation",
+      "source_appendix": "C"
+    },
+    {
+      "conductivity_btu_hr_ft_f": 0.023,
+      "conductivity_btu_in_hr_ft2_f": 0.27,
+      "conductivity_wmk": 0.039,
+      "density_kgm3": 205.0,
+      "emissivity": null,
+      "expiration_date": "2026-12-31",
+      "notes": {
+        "emissivity_note": "-"
+      },
+      "participant": "Zola Windows",
+      "product": "V2 Foam Insulation",
+      "source_appendix": "C"
+    }
+  ]
+}

@@ -1,0 +1,1158 @@
+{
+  "appendix": "B",
+  "materials": [
+    {
+      "category": "Elastomers",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Vulcanized rubber / (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Elastomers",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Vulcanized rubber, soft / (density ≤ 1100 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Polymers",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "ABS (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Polymers",
+      "conductivity_btu_hr_ft_f": 0.11,
+      "conductivity_btu_in_hr_ft2_f": 1.318,
+      "conductivity_wmk": 0.19,
+      "emissivity": 0.9,
+      "material_name": "ABS (molded)",
+      "source_appendix": "B",
+      "source_ref": "20"
+    },
+    {
+      "category": "Polymers",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Polyethylene/polythene / (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Polymers",
+      "conductivity_btu_hr_ft_f": 0.191,
+      "conductivity_btu_in_hr_ft2_f": 2.288,
+      "conductivity_wmk": 0.33,
+      "emissivity": 0.9,
+      "material_name": "Polyethylene/polythene LD (low / density) (density ≤ 920 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Polymers",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Polyurethane foam (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Polymers",
+      "conductivity_btu_hr_ft_f": 0.024,
+      "conductivity_btu_in_hr_ft2_f": 0.291,
+      "conductivity_wmk": 0.042,
+      "emissivity": 0.9,
+      "material_name": "Polyurethane foam, low density, / open cell (density ≤ 10 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.035,
+      "conductivity_btu_in_hr_ft2_f": 0.416,
+      "conductivity_wmk": 0.06,
+      "emissivity": 0.9,
+      "material_name": "Balsa",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.092,
+      "conductivity_btu_in_hr_ft2_f": 1.109,
+      "conductivity_wmk": 0.16,
+      "emissivity": 0.9,
+      "material_name": "Birch, yellow",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Redwood, old growth",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Redwood, new growth",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.052,
+      "conductivity_btu_in_hr_ft2_f": 0.624,
+      "conductivity_wmk": 0.09,
+      "emissivity": 0.9,
+      "material_name": "Cedar, Atlantic white",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Cedar, Eastern red",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.052,
+      "conductivity_btu_in_hr_ft2_f": 0.624,
+      "conductivity_wmk": 0.09,
+      "emissivity": 0.9,
+      "material_name": "Cedar, Northern white",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Cedar, Port-Orford",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.052,
+      "conductivity_btu_in_hr_ft2_f": 0.624,
+      "conductivity_wmk": 0.09,
+      "emissivity": 0.9,
+      "material_name": "Cedar, Western red",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Cedar, yellow",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Cypress, bald",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Elm, American",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.098,
+      "conductivity_btu_in_hr_ft2_f": 1.179,
+      "conductivity_wmk": 0.17,
+      "emissivity": 0.9,
+      "material_name": "Elm, Rock",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Elm, Slippery",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K",
+        "emissivity_note": "-"
+      },
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Fir, balsam",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Fir, white",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.075,
+      "conductivity_btu_in_hr_ft2_f": 0.901,
+      "conductivity_wmk": 0.13,
+      "emissivity": 0.9,
+      "material_name": "Douglas-fir, coast",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.075,
+      "conductivity_btu_in_hr_ft2_f": 0.901,
+      "conductivity_wmk": 0.13,
+      "emissivity": 0.9,
+      "material_name": "Douglas-fir, interior north",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.075,
+      "conductivity_btu_in_hr_ft2_f": 0.901,
+      "conductivity_wmk": 0.13,
+      "emissivity": 0.9,
+      "material_name": "Douglas-fir, interior west",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Hemlock, eastern",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Hemlock, western",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Larch (western)",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.075,
+      "conductivity_btu_in_hr_ft2_f": 0.901,
+      "conductivity_wmk": 0.13,
+      "emissivity": 0.9,
+      "material_name": "Mahogany",
+      "source_appendix": "B",
+      "source_ref": "2,7"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.087,
+      "conductivity_btu_in_hr_ft2_f": 1.04,
+      "conductivity_wmk": 0.15,
+      "emissivity": 0.9,
+      "material_name": "Maple, black",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Maple, red",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.075,
+      "conductivity_btu_in_hr_ft2_f": 0.901,
+      "conductivity_wmk": 0.13,
+      "emissivity": 0.9,
+      "material_name": "Maple, silver",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.092,
+      "conductivity_btu_in_hr_ft2_f": 1.109,
+      "conductivity_wmk": 0.16,
+      "emissivity": 0.9,
+      "material_name": "Maple, sugar",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.092,
+      "conductivity_btu_in_hr_ft2_f": 1.109,
+      "conductivity_wmk": 0.16,
+      "emissivity": 0.9,
+      "material_name": "Oak, black",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.092,
+      "conductivity_btu_in_hr_ft2_f": 1.109,
+      "conductivity_wmk": 0.16,
+      "emissivity": 0.9,
+      "material_name": "Oak, bur",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.092,
+      "conductivity_btu_in_hr_ft2_f": 1.109,
+      "conductivity_wmk": 0.16,
+      "emissivity": 0.9,
+      "material_name": "Oak, Northern red",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.087,
+      "conductivity_btu_in_hr_ft2_f": 1.04,
+      "conductivity_wmk": 0.15,
+      "emissivity": 0.9,
+      "material_name": "Oak, Southern red",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.104,
+      "conductivity_btu_in_hr_ft2_f": 1.248,
+      "conductivity_wmk": 0.18,
+      "emissivity": 0.9,
+      "material_name": "Oak, white",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Pine, Eastern white",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Pine, European / (Scots/Scotch/Baltic)",
+      "source_appendix": "B",
+      "source_ref": "21"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Pine, jack",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Pine, loblolly",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Pine, lodgepole",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.087,
+      "conductivity_btu_in_hr_ft2_f": 1.04,
+      "conductivity_wmk": 0.15,
+      "emissivity": 0.9,
+      "material_name": "Pine, longleaf",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.075,
+      "conductivity_btu_in_hr_ft2_f": 0.901,
+      "conductivity_wmk": 0.13,
+      "emissivity": 0.9,
+      "material_name": "Pine, pitch",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Pine, ponderosa",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Pine, Radiata",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Pine, red",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Pine, shortleaf",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.087,
+      "conductivity_btu_in_hr_ft2_f": 1.04,
+      "conductivity_wmk": 0.15,
+      "emissivity": 0.9,
+      "material_name": "Pine, slash",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Pine, sugar",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Pine, Western white",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Spruce, black",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Spruce, Engelmann",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Spruce, red",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.064,
+      "conductivity_btu_in_hr_ft2_f": 0.763,
+      "conductivity_wmk": 0.11,
+      "emissivity": 0.9,
+      "material_name": "Spruce, Sitka",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Spruce, white",
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Timbers3",
+      "conductivity_btu_hr_ft_f": 0.069,
+      "conductivity_btu_in_hr_ft2_f": 0.832,
+      "conductivity_wmk": 0.12,
+      "emissivity": 0.9,
+      "material_name": "Yellow-poplar",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K",
+        "emissivity_note": "-"
+      },
+      "source_appendix": "B",
+      "source_ref": "4"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Cement-bonded wood wool / panels (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Cement-bonded wood wool / panels (density ≤ 500kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Fiberboard (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.04,
+      "conductivity_btu_in_hr_ft2_f": 0.485,
+      "conductivity_wmk": 0.07,
+      "emissivity": 0.9,
+      "material_name": "Fiberboard (medium density, dry / process) (density ≤ 250 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Fiberboard (medium density, dry / process) / (250 < density ≤ 400 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Fiberboard (medium density, dry / process) / (400 < density ≤ 600 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.104,
+      "conductivity_btu_in_hr_ft2_f": 1.248,
+      "conductivity_wmk": 0.18,
+      "emissivity": 0.9,
+      "material_name": "Fiberboard (medium density, dry / process) / (600 < density ≤ 800 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Particleboard (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.058,
+      "conductivity_btu_in_hr_ft2_f": 0.693,
+      "conductivity_wmk": 0.1,
+      "emissivity": 0.9,
+      "material_name": "Particleboard / (density ≤ 300 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.081,
+      "conductivity_btu_in_hr_ft2_f": 0.971,
+      "conductivity_wmk": 0.14,
+      "emissivity": 0.9,
+      "material_name": "Particleboard / (300 < density ≤ 600 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.104,
+      "conductivity_btu_in_hr_ft2_f": 1.248,
+      "conductivity_wmk": 0.18,
+      "emissivity": 0.9,
+      "material_name": "Particleboard / (600 < density ≤ 900 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Plywood (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.052,
+      "conductivity_btu_in_hr_ft2_f": 0.624,
+      "conductivity_wmk": 0.09,
+      "emissivity": 0.9,
+      "material_name": "Plywood (density ≤ 300 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.075,
+      "conductivity_btu_in_hr_ft2_f": 0.901,
+      "conductivity_wmk": 0.13,
+      "emissivity": 0.9,
+      "material_name": "Plywood / (300 < density ≤ 500 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.098,
+      "conductivity_btu_in_hr_ft2_f": 1.179,
+      "conductivity_wmk": 0.17,
+      "emissivity": 0.9,
+      "material_name": "Plywood / (500 < density ≤ 700 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Wood based panels",
+      "conductivity_btu_hr_ft_f": 0.139,
+      "conductivity_btu_in_hr_ft2_f": 1.664,
+      "conductivity_wmk": 0.24,
+      "emissivity": 0.9,
+      "material_name": "Plywood / (700 < density ≤ 1000 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 97.07,
+      "conductivity_btu_in_hr_ft2_f": 1164.83,
+      "conductivity_wmk": 168.0,
+      "emissivity": 0.9,
+      "material_name": "Aluminum alloy 195 cast (4.5 / Cu)",
+      "source_appendix": "B",
+      "source_ref": "8"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 102.27,
+      "conductivity_btu_in_hr_ft2_f": 1227.23,
+      "conductivity_wmk": 177.0,
+      "emissivity": 0.9,
+      "material_name": "Aluminum alloy 2024 T6 (4.5 / Cu,1.5 Mg, 0.6 Mn)",
+      "source_appendix": "B",
+      "source_ref": "8"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 128.21,
+      "conductivity_btu_in_hr_ft2_f": 1538.54,
+      "conductivity_wmk": 221.9,
+      "emissivity": 0.9,
+      "material_name": "Aluminum alloy 1100-O",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "W/m•K",
+        "emissivity_note": "-"
+      },
+      "source_appendix": "B",
+      "source_ref": "2,7"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 94.34,
+      "conductivity_btu_in_hr_ft2_f": 1132.13,
+      "conductivity_wmk": 163.28,
+      "emissivity": 0.9,
+      "material_name": "Aluminum alloy 3003-O",
+      "source_appendix": "B",
+      "source_ref": "7"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 67.73,
+      "conductivity_btu_in_hr_ft2_f": 812.81,
+      "conductivity_wmk": 117.23,
+      "emissivity": 0.9,
+      "material_name": "Aluminum alloy 5056-O",
+      "source_appendix": "B",
+      "source_ref": "7"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 60.48,
+      "conductivity_btu_in_hr_ft2_f": 725.73,
+      "conductivity_wmk": 104.67,
+      "emissivity": 0.9,
+      "material_name": "Aluminum alloy (96% Al, 1.8% / Cu, 0.9% Fe, 0.9% Cr, 0.4% Si)",
+      "source_appendix": "B",
+      "source_ref": "9"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 47.73,
+      "conductivity_btu_in_hr_ft2_f": 572.71,
+      "conductivity_wmk": 82.6,
+      "emissivity": 0.9,
+      "material_name": "Aluminum bronze (95% Cu, 5% / Al)",
+      "source_appendix": "B",
+      "source_ref": "9"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 34.09,
+      "conductivity_btu_in_hr_ft2_f": 409.08,
+      "conductivity_wmk": 59.0,
+      "emissivity": 0.9,
+      "material_name": "Steel, low carbon (0.1% Carbon / at 0°C)",
+      "source_appendix": "B",
+      "source_ref": "9"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 28.89,
+      "conductivity_btu_in_hr_ft2_f": 346.67,
+      "conductivity_wmk": 50.0,
+      "emissivity": 0.9,
+      "material_name": "Steel, low carbon (0.2% Carbon / at 20°C)",
+      "source_appendix": "B",
+      "source_ref": "9"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 26.87,
+      "conductivity_btu_in_hr_ft2_f": 322.41,
+      "conductivity_wmk": 46.5,
+      "emissivity": 0.9,
+      "material_name": "Steel, high carbon (0.6% Carbon / at 20°C)",
+      "source_appendix": "B",
+      "source_ref": "9"
+    },
+    {
+      "category": "Metals",
+      "conductivity_btu_hr_ft_f": 29.4,
+      "conductivity_btu_in_hr_ft2_f": 353.0,
+      "conductivity_wmk": 50.9,
+      "emissivity": 0.9,
+      "material_name": "Tin-Lead Alloy Eutectic Solder / (63%Sn - 37%Pb)",
+      "source_appendix": "B",
+      "source_ref": "22"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Cellulosic fiber, loose fill / (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.023,
+      "conductivity_btu_in_hr_ft2_f": 0.277,
+      "conductivity_wmk": 0.04,
+      "emissivity": 0.9,
+      "material_name": "Cellulosic fiber / (density ≤ 56 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Glass fiber, batts (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.025,
+      "conductivity_btu_in_hr_ft2_f": 0.298,
+      "conductivity_wmk": 0.043,
+      "emissivity": 0.9,
+      "material_name": "Glass fiber, batts / (density ≤ 12 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.023,
+      "conductivity_btu_in_hr_ft2_f": 0.027,
+      "conductivity_wmk": 0.039,
+      "emissivity": 0.9,
+      "material_name": "Glass fiber, batts / (12 < density ≤ 14 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.024,
+      "conductivity_btu_in_hr_ft2_f": 0.291,
+      "conductivity_wmk": 0.042,
+      "emissivity": 0.9,
+      "material_name": "Mineral fiber-low density (rock, / slag, glass) (density ≤ 64 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Polystyrene expanded (EPS) / (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.021,
+      "conductivity_btu_in_hr_ft2_f": 0.257,
+      "conductivity_wmk": 0.037,
+      "emissivity": 0.9,
+      "material_name": "Polystyrene expanded, molded / beads (EPS), Type I, Type XI / (density ≤ 16 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.02,
+      "conductivity_btu_in_hr_ft2_f": 0.243,
+      "conductivity_wmk": 0.035,
+      "emissivity": 0.9,
+      "material_name": "Polystyrene expanded, molded / beads (EPS), Type II, Type VIII / (16 < density ≤ 24 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.019,
+      "conductivity_btu_in_hr_ft2_f": 0.229,
+      "conductivity_wmk": 0.033,
+      "emissivity": 0.9,
+      "material_name": "Polystyrene expanded, molded / beads (EPS), Type XI / (24 < density ≤ 29 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Polyester fiber (any density)",
+      "notes": {
+        "conductivity_btu_hr_ft_f_note": "Btu/hr•ft•F",
+        "conductivity_btu_in_hr_ft2_f_note": "Btu•in/hr•ft2•ºF",
+        "conductivity_wmk_note": "See Appendix A W/m•K",
+        "emissivity_note": "-"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.022,
+      "conductivity_btu_in_hr_ft2_f": 0.263,
+      "conductivity_wmk": 0.038,
+      "emissivity": 0.9,
+      "material_name": "Polyester fiber (density ≤ 25 / kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.021,
+      "conductivity_btu_in_hr_ft2_f": 0.25,
+      "conductivity_wmk": 0.036,
+      "emissivity": 0.9,
+      "material_name": "Polyester fiber / (25 < density ≤ 35 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.02,
+      "conductivity_btu_in_hr_ft2_f": 0.243,
+      "conductivity_wmk": 0.035,
+      "emissivity": 0.9,
+      "material_name": "Polyester fiber / (35 < density ≤ 45 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.012,
+      "conductivity_btu_in_hr_ft2_f": 0.139,
+      "conductivity_wmk": 0.02,
+      "emissivity": 0.9,
+      "material_name": "Polyurethane foam, HFC 245fa / blown (density ≤ 31 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "18"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.013,
+      "conductivity_btu_in_hr_ft2_f": 0.159,
+      "conductivity_wmk": 0.023,
+      "emissivity": 0.9,
+      "material_name": "Polyurethane foam, HFC 134a / blown",
+      "source_appendix": "B",
+      "source_ref": "18"
+    },
+    {
+      "category": "Insulating Materials",
+      "conductivity_btu_hr_ft_f": 0.012,
+      "conductivity_btu_in_hr_ft2_f": 0.139,
+      "conductivity_wmk": 0.02,
+      "emissivity": 0.9,
+      "material_name": "Polyurethane foam, / cyclopentane blown",
+      "source_appendix": "B",
+      "source_ref": "18"
+    },
+    {
+      "category": "Masonry Materials",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Concrete (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Masonry Materials",
+      "conductivity_btu_hr_ft_f": 0.664,
+      "conductivity_btu_in_hr_ft2_f": 7.974,
+      "conductivity_wmk": 1.15,
+      "emissivity": 0.9,
+      "material_name": "Concrete – medium density / (density ≤ 1800 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "1,15"
+    },
+    {
+      "category": "Masonry Materials",
+      "conductivity_btu_hr_ft_f": null,
+      "conductivity_btu_in_hr_ft2_f": null,
+      "conductivity_wmk": null,
+      "emissivity": null,
+      "material_name": "Brick, Fired clay (any density)",
+      "notes": {
+        "conductivity_wmk_note": "See Appendix A"
+      },
+      "source_appendix": "B",
+      "source_ref": ""
+    },
+    {
+      "category": "Masonry Materials",
+      "conductivity_btu_hr_ft_f": 0.26,
+      "conductivity_btu_in_hr_ft2_f": 3.12,
+      "conductivity_wmk": 0.45,
+      "emissivity": 0.9,
+      "material_name": "Brick, Fired clay – low density / (density ≤ 1200 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    },
+    {
+      "category": "Masonry Materials",
+      "conductivity_btu_hr_ft_f": 0.428,
+      "conductivity_btu_in_hr_ft2_f": 5.131,
+      "conductivity_wmk": 0.74,
+      "emissivity": 0.9,
+      "material_name": "Brick, Fired clay – medium / density / (1200 < density ≤ 1600 kg/m3)",
+      "source_appendix": "B",
+      "source_ref": "2"
+    }
+  ]
+}

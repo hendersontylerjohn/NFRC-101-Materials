@@ -1,0 +1,29 @@
+{
+  "appendix_a_count": 107,
+  "appendix_b_count": 109,
+  "appendix_c_count": 98,
+  "error_count": 0,
+  "issues": [],
+  "ok": true,
+  "stats": {
+    "A": {
+      "appendix": "A",
+      "count": 107,
+      "error_count": 0,
+      "warning_count": 0
+    },
+    "B": {
+      "appendix": "B",
+      "count": 109,
+      "error_count": 0,
+      "warning_count": 0
+    },
+    "C": {
+      "appendix": "C",
+      "count": 98,
+      "error_count": 0,
+      "warning_count": 0
+    }
+  },
+  "warning_count": 0
+}

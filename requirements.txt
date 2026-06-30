@@ -1,0 +1,16 @@
+# NFRC 101 Materials Library Synchronization — Python dependencies
+# Tested with Python 3.12 (also works on 3.11+).
+
+# PDF text + table extraction. pdfplumber wraps pdfminer.six and provides
+# high-level table-detection APIs.
+pdfplumber>=0.11.4,<0.13
+
+# PyMuPDF (fitz) is used for fast heading-detection via span-level font
+# metadata. It is significantly faster than pdfminer for the initial scan.
+PyMuPDF>=1.24,<2.0
+
+# HTTP client for downloading the NFRC 101 PDF.
+requests>=2.32,<3.0
+
+# ---------- dev / test dependencies (optional, separated by environment) ----------
+# Install with:  pip install -r requirements-dev.txt
