@@ -1,7 +1,7 @@
 {
   "appendix_a_count": 107,
   "appendix_b_count": 109,
-  "appendix_c_count": 98,
+  "appendix_c_count": 99,
   "error_count": 0,
   "issues": [],
   "ok": true,
@@ -20,7 +20,7 @@
     },
     "C": {
       "appendix": "C",
-      "count": 98,
+      "count": 99,
       "error_count": 0,
       "warning_count": 0
     }
