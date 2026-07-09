@@ -36,8 +36,7 @@ DEFAULT_LANDING_PAGE_URL: str = "https://nfrccommunity.org/page/TD"
 # last-known-good direct URL to the published NFRC 101 PDF. Update it via PR
 # when a new NFRC 101 revision is published and discovery is still blocked.
 DEFAULT_FALLBACK_PDF_URL: str = (
-    "https://cdn.ymaws.com/nfrccommunity.org/resource/resmgr/"
-    "2026technicaldocs/NFRC_101-2026_E0A2.pdf"
+    "https://cdn.ymaws.com/nfrccommunity.org/resource/resmgr/2026technicaldocs/NFRC_101-2026_E0A3.pdf"
 )
 
 # Default output directory (committed to git).
